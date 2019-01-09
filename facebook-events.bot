@@ -1,0 +1,15 @@
+{
+  "name": "facebook-events",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "6bed844e-ece6-4894-ab97-63321df15e84",
+      "appPassword": "{}OvT3+w4AoTuu;L",
+      "id": "1"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
